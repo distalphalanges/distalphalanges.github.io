@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Archive
+title: archive
 ---
 
 <div>
@@ -8,12 +8,12 @@ title: Archive
   <h2>Archive</h2>
 
   <section class="archive_list">
-    {% for category in site.categories %}
+    <!-- {% for category in site.categories %}
 
     <div class="category-name">
       <h2>{{ category | first }}</h2>
-    </div>
-    {% for post in category.last %}
+    </div> -->
+    {% for post in posts %}
 
     <div class="post_title">
       <a href="{{ post.url | prepend: site.baseurl }}">{{ post.title}}</a>
@@ -22,7 +22,7 @@ title: Archive
 
     {% endfor %}
 
-    {% endfor %}
+    <!-- {% endfor %} -->
 
   </section>
 

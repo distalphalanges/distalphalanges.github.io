@@ -67,3 +67,25 @@ $on-laptop:        780px;
         "color",
         "syntax-highlighting"
 ;
+
+body {
+  font-family: monospace;
+  font-size: 16px;
+}
+
+h1, h2, h3 {
+  font-weight: bold;
+}
+
+h1 {
+  font-size: 2em;
+  // text-decoration: underline;
+}
+
+h2 {
+  font-size: 1.6em;
+}
+
+h3 {
+  font-size: 1.2em;
+}

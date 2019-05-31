@@ -4,4 +4,4 @@ title: about
 permalink: /about/
 ---
 
-just some guy, likes computers.
+![i love computers]({{site.url}}/assets/img/i_love_computers.gif "i love computers")

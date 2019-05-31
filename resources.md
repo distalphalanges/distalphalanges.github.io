@@ -3,7 +3,7 @@ layout: page
 title: resources
 ---
 ### contents:
-1. [hardware and OS](#how-computers-work)
+1. [hardware and OS](#hardware-and-os)
 2. [programming](#programming)
 3. [linux](#linux)
 4. [networking](#networking)
@@ -13,11 +13,11 @@ title: resources
 
 ## hardware and OS
 ---
-how computers actually work.
+how computers work.
 
 ### videos
 
-* [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): #5 (Representing Numbers and Letters in Binary) to #8 (Instructions & Programs) for hardware. #18 (Operating Systems) and #19 (Memory & Storage) for the basics of operating systems.  or just watch the whole thing.
+* [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): #18 (Operating Systems) and #19 (Memory & Storage) for the basics of operating systems. #5 (Representing Numbers and Letters in Binary) to #8 (Instructions & Programs) for hardware.  or just watch the whole thing.
 
 * [__Hardware Basics__](https://www.youtube.com/watch?v=9-KUm9YpPm0) and [__Operating System Basics__](https://www.youtube.com/watch?v=9GDX-IyZ_C8): pretty dry but you might prefer that if you don't like the crash course videos.
 
@@ -30,6 +30,12 @@ how computers actually work.
 
 * [__Every Programming Language in 15 Minutes__](https://www.youtube.com/watch?v=duhDovqHbEs)
 * [__Learning to program with Python 3__](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
+
+### text
+
+* [__Python for you and me__](https://pymbook.readthedocs.io/en/latest/)
+* [__A Byte of Python__](https://python.swaroopch.com/first_steps.html)
+<!-- *[__Cracking Codes with Python__](http://inventwithpython.com/cracking/) -->
 
 ### practice
 
@@ -60,7 +66,7 @@ websites with programming problems that gradually increase in difficulty.
 
 ### videos
 
-* [The Bits and Bytes of Computer Networking](https://www.coursera.org/learn/computer-networking)
+* [__The Bits and Bytes of Computer Networking__](https://www.coursera.org/learn/computer-networking)
 
 <!-- ## hacking
 ---

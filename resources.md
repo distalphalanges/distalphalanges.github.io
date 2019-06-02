@@ -3,23 +3,11 @@ layout: page
 title: resources
 ---
 ### contents:
+1. [programming](#programming)
+1. [linux](#linux)
 1. [hardware and OS](#hardware-and-os)
-2. [programming](#programming)
-3. [linux](#linux)
-4. [networking](#networking)
-<!--  [hacking](#hacking) -->
-
-<br/>
-
-## hardware and OS
----
-how computers work.
-
-### videos
-
-* [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): #18 (Operating Systems) and #19 (Memory & Storage) for the basics of operating systems. #5 (Representing Numbers and Letters in Binary) to #8 (Instructions & Programs) for hardware.  or just watch the whole thing.
-
-* [__Hardware Basics__](https://www.youtube.com/watch?v=9-KUm9YpPm0) and [__Operating System Basics__](https://www.youtube.com/watch?v=9GDX-IyZ_C8): pretty dry but you might prefer that if you don't like the crash course videos.
+1. [networking](#networking)
+<!-- 1. [hacking](#hacking) -->
 
 <br/>
 
@@ -35,29 +23,51 @@ how computers work.
 
 * [__Python for you and me__](https://pymbook.readthedocs.io/en/latest/)
 * [__A Byte of Python__](https://python.swaroopch.com/first_steps.html)
-<!-- *[__Cracking Codes with Python__](http://inventwithpython.com/cracking/) -->
 
 ### practice
 
-websites with programming problems that gradually increase in difficulty.
-
-* [__exercism.io__](https://exercism.io) (my favourite)
-* [__CodeSignal__](https://codesignal.com)
+* [__exercism.io__](https://exercism.io)
 * [__codewars__](https://codewars.com)
+* [__w3resource__](https://www.w3resource.com/python-exercises/)
 
 <br/>
 
 ## linux
 ---
 
+### interactive
+
+* [__Linux Journey__](https://linuxjourney.com)
+
 ### videos
 
-* [__Learning Linux Command Line__](https://www.lynda.com/Linux-tutorials/Learning-Linux-Command-Line/753913-2.html): this pretty much covers it.
+#### lynda
+
+to log in to lynda go to sign in, click "sign in with your organization portal", enter "swin.edu.au" and then sign in with your swinburne account.
+
+* [__Learning Linux Command Line__](https://www.lynda.com/Linux-tutorials/Learning-Linux-Command-Line/753913-2.html)
+* [__Linux: User and Group Management__](https://www.lynda.com/Linux-tutorials/Linux-User-Group-Management/517443-2.html)
+* [__Linux: Shells and Processes__](https://www.lynda.com/Linux-tutorials/Linux-Shells-Processes/554398-2.html)
+
+#### youtube
+
 * [__Beginner's Guide to the Bash Terminal__](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+* [__The Linux Basics Course: Beginner to Sysadmin, Step by Step__](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
 ### text
 
-* [__Learn Enough Command Line to Be Dangerous__](https://www.learnenough.com/command-line-tutorial/)
+* [__The Linux Command Line__](http://linuxcommand.org/tlcl.php)
+
+<br/>
+
+## hardware and OS
+---
+
+### videos
+
+* [__Hardware Basics__](https://www.youtube.com/watch?v=9-KUm9YpPm0) and [__Operating System Basics__](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
+* [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): 
+    * [Operating Systems](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) and [Memory & Storage](https://www.youtube.com/watch?v=TQCr9RV7twk&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
 
 <br/>
 
@@ -67,6 +77,8 @@ websites with programming problems that gradually increase in difficulty.
 ### videos
 
 * [__The Bits and Bytes of Computer Networking__](https://www.coursera.org/learn/computer-networking)
+
+<br/>
 
 <!-- ## hacking
 ---

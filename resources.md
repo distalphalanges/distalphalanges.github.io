@@ -56,6 +56,7 @@ to log in to lynda go to sign in, click "sign in with your organization portal",
 
 ### text
 
+* [__Linux command line for you and me__](https://lym.readthedocs.io/en/latest/)
 * [__The Linux Command Line__](http://linuxcommand.org/tlcl.php)
 
 <br/>

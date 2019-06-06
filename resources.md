@@ -7,7 +7,7 @@ title: resources
 1. [linux](#linux)
 1. [hardware and OS](#hardware-and-os)
 1. [networking](#networking)
-<!-- 1. [hacking](#hacking) -->
+1. [hacking](#hacking)
 
 <br/>
 
@@ -81,16 +81,16 @@ to log in to lynda go to sign in, click "sign in with your organization portal",
 
 <br/>
 
-<!-- ## hacking
+## hacking
 ---
 
 ### youtube
 
-* [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
-* [John Hammond](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
+* [__LiveOverflow__](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
+* [__John Hammond__](https://www.youtube.com/channel/UCVeW9qkBjo3zosnqUbG7CFw)
 
 ### practice
 
-* [OverTheWire](https://overthewire.org/wargames/)
-* [SmashTheStack](http://smashthestack.org)
-* [cryptopals](https://cryptopals.com) -->
+* [__OverTheWire__](https://overthewire.org/wargames/)
+* [__SmashTheStack__](http://smashthestack.org)
+* [__cryptopals__](https://cryptopals.com)

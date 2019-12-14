@@ -1,4 +1,4 @@
----
+--
 layout: page
 title: resources
 ---
@@ -14,7 +14,7 @@ title: resources
 ## programming
 ---
 
-### videos
+### youtube
 
 * [__Every Programming Language in 15 Minutes__](https://www.youtube.com/watch?v=duhDovqHbEs)
 * [__Learning to program with Python 3__](https://www.youtube.com/playlist?list=PLQVvvaa0QuDeAams7fkdcwOGBpGdHpXln)
@@ -53,7 +53,7 @@ title: resources
 ## hardware and OS
 ---
 
-### videos
+### youtube
 
 * [__Hardware Basics__](https://www.youtube.com/watch?v=9-KUm9YpPm0) and [__Operating System Basics__](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): 
@@ -68,7 +68,7 @@ title: resources
 ## networking
 ---
 
-### videos
+### youtube
 
 * [__The Bits and Bytes of Computer Networking__](https://www.coursera.org/learn/computer-networking)
 

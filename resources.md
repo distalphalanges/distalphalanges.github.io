@@ -39,25 +39,14 @@ title: resources
 
 * [__Linux Journey__](https://linuxjourney.com)
 
-### videos
-
-#### lynda
-
-to log in to lynda go to sign in, click "sign in with your organization portal", enter "swin.edu.au" and then sign in with your swinburne account.
-
-* [__Learning Linux Command Line__](https://www.lynda.com/Linux-tutorials/Learning-Linux-Command-Line/753913-2.html)
-* [__Linux: User and Group Management__](https://www.lynda.com/Linux-tutorials/Linux-User-Group-Management/517443-2.html)
-* [__Linux: Shells and Processes__](https://www.lynda.com/Linux-tutorials/Linux-Shells-Processes/554398-2.html)
-
-#### youtube
-
-* [__Beginner's Guide to the Bash Terminal__](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
-* [__The Linux Basics Course: Beginner to Sysadmin, Step by Step__](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
-
 ### text
 
 * [__Linux command line for you and me__](https://lym.readthedocs.io/en/latest/)
-* [__The Linux Command Line__](http://linuxcommand.org/tlcl.php)
+
+### youtube
+
+* [__Beginner's Guide to the Bash Terminal__](https://www.youtube.com/watch?v=oxuRxtrO2Ag)
+* [__The Linux Basics Course: Beginner to Sysadmin, Step by Step__](https://www.youtube.com/playlist?list=PLtK75qxsQaMLZSo7KL-PmiRarU7hrpnwK)
 
 <br/>
 
@@ -69,6 +58,10 @@ to log in to lynda go to sign in, click "sign in with your organization portal",
 * [__Hardware Basics__](https://www.youtube.com/watch?v=9-KUm9YpPm0) and [__Operating System Basics__](https://www.youtube.com/watch?v=9GDX-IyZ_C8)
 * [__Crash Course Computer Science__](https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo): 
     * [Operating Systems](https://www.youtube.com/watch?v=26QPDBe-NB8&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo) and [Memory & Storage](https://www.youtube.com/watch?v=TQCr9RV7twk&list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo)
+
+### text
+
+* [__ThinkOS__](http://greenteapress.com/thinkos/)
 
 <br/>
 
